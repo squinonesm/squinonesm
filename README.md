@@ -18,7 +18,7 @@ Soy un estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, apasi
 - Desarrollo de juegos en Unity (2D y 3D).
 
 ### 📫 Contáctame
-- **Correo:** [squinonesm98@gmai.com](squinonesm98@gmai.com)
+- **Correo:** [squinonesm98@gmail.com](squinonesm98@gmail.com)
 - **LinkedIn:** [SergioQuiñones](https://www.linkedin.com/in/sqm98/)
 
 <!--
